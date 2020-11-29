@@ -1,4 +1,4 @@
-#User input a value and program returns values from list (a) that are less than user number
+#User input a value and program returns values from list (a) that are less than user's number
 
 a = [5, 8, 13, 21, 34, 55, 89, 1, 1, 2, 3]
 n = len(a)
